@@ -1,0 +1,11 @@
+.metadata
+.idea
+.DS_Store
+node_modules
+.tmp
+.build
+.sass-cache
+bin
+gen
+builds
+dist
